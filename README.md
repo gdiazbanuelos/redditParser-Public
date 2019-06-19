@@ -10,4 +10,5 @@ cd into the desired subreddit bot folder, this is the 3DS example
 
 1. $ cd 3DS_Deals_Bot
 2. $ nohup ./Script_3DS.sh &
+
 You are done! The bot will run in the background and scan every 60 seconds
