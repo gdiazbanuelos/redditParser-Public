@@ -7,7 +7,7 @@ the specific subreddit for the specific game in 60 second intervals
 
 To get the reddit client_id and client_secret
 
-Go to your Reddit account -> preferences -> apps
+Go to your Reddit account -> preferences -> apps. 
 Create another app, give the bot a name and description.
 Select the script option and fill in about and redirect to anything.
 The client id and client secret values will be given to you.
