@@ -1,0 +1,1 @@
+while true; do python3 Parser_NS.py; sleep 60; done

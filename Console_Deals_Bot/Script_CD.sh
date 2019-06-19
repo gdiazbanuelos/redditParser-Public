@@ -1,0 +1,1 @@
+while true; do python3 Parser_CD.py; sleep 60; done

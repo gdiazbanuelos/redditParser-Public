@@ -1,0 +1,1 @@
+while true; do python3 Parser_3DS.py; sleep 60; done
